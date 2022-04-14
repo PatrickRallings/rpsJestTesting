@@ -1,6 +1,5 @@
 import { getHand } from "../script.js";
 import { player1 } from "../script.js";
-import { player2 } from "../script.js";
 import { playRound } from "../script.js";
 import { playGame } from "../script.js";
 import { jest } from "@jest/globals";
