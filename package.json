@@ -1,0 +1,23 @@
+{
+  "name": "rpsjesttesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rps.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickRallings/rpsJestTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrickRallings/rpsJestTesting/issues"
+  },
+  "homepage": "https://github.com/PatrickRallings/rpsJestTesting#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "type": "module"
+}
